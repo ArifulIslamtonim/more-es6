@@ -26,4 +26,4 @@ const {work, framework, employee} = company.web;
 const {food, name} = company.ceo;
 const {first, second} = company.web.tech;
 
-console.log(employee, name, food, work, first);
+console.log(employee, lilu?. name, food, work, first);
